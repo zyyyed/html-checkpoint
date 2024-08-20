@@ -1,0 +1,42 @@
+header,section,footer{
+    text-align: center;
+}
+header,footer,h1{
+    background-color:#303030;
+}
+h1,h2,a{
+    color: white;
+}
+header,footer{
+    width: 100%;
+}
+footer,header{
+    padding: auto;
+    width: auto;
+    position: relative;
+}
+a{
+    padding: 20px;
+    margin: 20px;
+}
+a:hover{
+    color: #789078;
+}
+h1:hover{
+    color: #789078;
+}
+p{
+    background-color: #303030;
+    color: white;
+    text-align: left;
+}
+h2:hover{
+    color: #789078;
+}
+h2{
+    background-color: #303030;
+    text-align: left;
+}
+label{
+    text-align: left;
+}
